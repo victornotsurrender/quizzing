@@ -1,0 +1,27 @@
+{
+  "name": "Hebreos",
+  "chapters": [
+    {
+      "id": 12,
+      "verses": [
+        {
+          "id": 1,
+          "text": "Por tanto, nosotros también, teniendo en derredor nuestro tan grande nube de testigos, despojémonos de todo peso y del pecado que nos asedia, y corramos con pacienca la carrera que tenemos por delante,"
+        },
+        {
+          "id": 2,
+          "text": "puestos los ojos en Jesús, el autor y consumador de la fe, el cual por el gozo puesto delante de él sufrió la cruz, menospreciando el oprobio, y se sentó a la diestra del trono de Dios."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "verses": [
+        {
+          "id": 1,
+          "text": "Permanezca el amor fraternal."
+        }
+      ]
+    }
+  ]
+}
